@@ -1,0 +1,5 @@
+# don't rack content of this folder:
+node_modules/
+#windows files
+Thumbs.db
+desktop.ini
