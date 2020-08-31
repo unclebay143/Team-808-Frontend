@@ -68,16 +68,16 @@ h1,h2,h3{padding: 20px;
     }
 
     .login-btn {
-      margin-top: 12px;
+        margin-top: 12px;
     }
 
     .form-check-label a {
-      font-weight: 700;
+        font-weight: 700;
     }
 
     .form-check-label a:hover {
-      font-weight: 650;
-      text-decoration: none;
+        font-weight: 650;
+        text-decoration: none;
     }
 
     .welcome .card {
