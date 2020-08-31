@@ -29,7 +29,7 @@ html,body{
 }
 
 .nav-item a:hover {
-  background: #6C5B7B;
+  background: #6c5b7b;
   border-radius: 12px;
   color: #fff;
 }
@@ -67,15 +67,15 @@ h1,h2,h3{padding: 20px;
         margin-left: 450px;
     }
 
-    .login-btn{
+    .login-btn {
       margin-top: 12px;
     }
 
-    .form-check-label a{
+    .form-check-label a {
       font-weight: 700;
     }
 
-    .form-check-label a:hover{
+    .form-check-label a:hover {
       font-weight: 650;
       text-decoration: none;
     }
