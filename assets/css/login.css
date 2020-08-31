@@ -13,21 +13,26 @@
   color: #fff;
   border-radius: 12px;
 }
+
 /*  Removing basic link styling  */
+
 a {
   font-weight: 700;
 }
+
 .form-check-label a:hover {
   text-decoration: none;
   font-weight: 600;
 }
 
 /* Giving heading a space top and bottom */
+
 .login-heading {
   margin: 50px;
 }
 
 /* From Styling to center */
+
 .form-container {
   display: block;
   margin: 20px 450px;
