@@ -24,11 +24,11 @@ html,body{
     
 }
 
-.nav-item a{
+.nav-item a {
   color: #fff;
 }
 
-.nav-item a:hover{
+.nav-item a:hover {
   background: #6C5B7B;
   border-radius: 12px;
   color: #fff;
